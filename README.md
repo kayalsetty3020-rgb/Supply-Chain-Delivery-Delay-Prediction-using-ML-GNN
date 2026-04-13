@@ -62,3 +62,8 @@ Random Forest	92.7%
 XGBoost	92.8%
 
 **Best Model: XGBoost**
+
+
+
+<img width="590" height="243" alt="Screenshot 2026-04-13 at 6 45 14 PM" src="https://github.com/user-attachments/assets/b26a5340-e35a-4d09-8185-4c32384101d9" />
+
